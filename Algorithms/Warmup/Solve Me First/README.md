@@ -12,16 +12,18 @@ Note: The code has been saved in a template, which you can submit if you want. O
 ###Input Format###
 
 _(This section specifies the Input Format.)_
+
 Given A and B on two different lines.
 
 ###Output Format###
 
 _(This section specifies the Output Format.)_
+
 An integer that denotes Sum (A+B)
 
 ###Constraints###
 
-(This section tells what input you can expect. You can freely assume that the input will remain within the boundaries specified. As an example here given below, A and B will never be below 1 or above 1000.) 
+_(This section tells what input you can expect. You can freely assume that the input will remain within the boundaries specified. As an example here given below, A and B will never be below 1 or above 1000.)_
 
 ```
 1 ≤ A,B ≤ 1000
