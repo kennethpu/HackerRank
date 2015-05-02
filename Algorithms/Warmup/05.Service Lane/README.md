@@ -67,16 +67,16 @@ For each test case, print the number that represents the largest vehicle type th
 Below is the representation of the lane:
 
 ```
-   |Lane|    ->    Width
+   |HIGHWAY|Lane|    ->    Width
 
-0: |--|            2  
-1: |---|           3  
-2: |-|             1  
-3: |--|            2  
-4: |---|           3  
-5: |--|            2  
-6: |---|           3  
-7: |---|           3  
+0: |       |--|            2
+1: |       |---|           3
+2: |       |-|             1
+3: |       |--|            2
+4: |       |---|           3
+5: |       |--|            2
+6: |       |---|           3
+7: |       |---|           3
 ```
 
 1. (0, 3): Because width[2] = 1, only the bike can pass through it.
