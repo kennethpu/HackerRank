@@ -11,14 +11,12 @@ The task is to scan two numbers from `STDIN`, and print the sum A+B on `STDOUT`.
 
 ###Input Format###
 
-_(This section specifies the Input Format.)_
-
+_(This section specifies the Input Format.)_  
 Given A and B on two different lines.
 
 ###Output Format###
 
-_(This section specifies the Output Format.)_
-
+_(This section specifies the Output Format.)_  
 An integer that denotes Sum (A+B)
 
 ###Constraints###

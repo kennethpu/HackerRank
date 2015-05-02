@@ -24,18 +24,15 @@ The task is to scan two numbers from `STDIN`, and print the sum A+B on `STDOUT`.
 
 ###Input Format###
 
-_(This section specifies the Input Format.)_ 
-
-The first line contains T (number of test cases) followed by T lines 
-
+_(This section specifies the Input Format.)_  
+The first line contains T (number of test cases) followed by T lines.  
 Each line contains A and B, separated by a space.
 
 As you can see that we have provided in advance the number of lines, we discourage the use of scanning till `EOF` as not every language has an easy way to handle that. In fact, every HackerRank challenge is designed in such a way that multitests begin with a T line to indicate the number of lines.
 
 ###Output Format###
 
-_(This section specifies the Output Format.)_
-
+_(This section specifies the Output Format.)_  
 An integer that denotes Sum (A+B) printed on new line for every testcase.
 
 ###Constraints###
