@@ -20,7 +20,7 @@ end loop
 
 The task is to scan two numbers from `STDIN`, and print the sum A+B on `STDOUT`. The code has already been provided for most of the popular languages. This is primarily for you to read and inspect how the IO is handled.
 
-*Note:* The code has been saved in a template, which you can submit if you want. Or, you may try rewriting it and building it up from scratch.
+**Note:** The code has been saved in a template, which you can submit if you want. Or, you may try rewriting it and building it up from scratch.
 
 ###Input Format###
 

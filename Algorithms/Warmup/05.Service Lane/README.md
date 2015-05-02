@@ -31,14 +31,14 @@ T test cases follow. Each test case contains two integers, i and j, where i is t
 1 ≤ T ≤ 1000 
 0 ≤ i < j < N
 2 ≤ j−i+1 ≤ min(N,1000) 
-1 ≤ width[k] ≤ 3,where 0≤k<N
+1 ≤ width[k] ≤ 3, where 0 ≤ k < N
 ```
 
 ###Output Format###
 
 For each test case, print the number that represents the largest vehicle type that can pass through the service lane.
 
-*Note:* Calvin has to pass through all segments from index i to index j (both inclusive).
+**Note:** Calvin has to pass through all segments from index i to index j (both inclusive).
 
 ###Sample Input###
 
