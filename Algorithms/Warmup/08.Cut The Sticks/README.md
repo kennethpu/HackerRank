@@ -87,6 +87,8 @@ _ _ _ _ _ _           DONE            DONE
 Sample Case #01
 ```
 
+_Sample Case #01_
+
 ```
 sticks-length         length-of-cut   sticks-cut
 1 2 3 4 3 3 2 1         1               8
