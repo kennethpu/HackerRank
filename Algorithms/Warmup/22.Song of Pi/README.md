@@ -32,7 +32,7 @@ The first line will contain an integer T, representing the number of test cases.
 ###Constraints###
 
 ```
-1≤T≤100
+1 ≤ T ≤ 100
 ```
 
 No line will contain a total of more than 500 characters.
