@@ -13,7 +13,8 @@ The sum of its digits is `(3+7+8) = 18`.
 The sum of the digits of its factors is `(2+3+3+3+7) = 18`.
 
 Similarly, 4937775 is a Smith number.  
-`4937775 = 3×5×5×65837`, and the sum of its digits is the same as the sum of the digits of its prime factors: `4+9+3+7+7+7+5 = 3+5+5+6+5+8+3+7 = 42`.
+`4937775 = 3×5×5×65837`, and the sum of its digits is the same as the sum of the digits of its prime factors:  
+`4+9+3+7+7+7+5 = 3+5+5+6+5+8+3+7 = 42`.
 
 ###Task:###
 
@@ -50,7 +51,3 @@ There will be only one line of input: N, the number which needs to be checked.
 Its prime factors are 2, 3, 3, 3, and 7.  
 The sum of its digits is `(3+7+8) = 18`.  
 The sum of the digits of its factors is `(2+3+3+3+7) = 18`.
-
-In the second case you will get "3141592353", which is wrong if you observe it carefully.
-
-The third case is already explained in the problem statement, but here we removed all the punctuation marks to make your job easier!
