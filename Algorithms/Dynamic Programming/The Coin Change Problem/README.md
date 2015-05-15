@@ -10,7 +10,7 @@ How many different ways can you make change for an amount, given a list of coins
 Write a program that, given
 
 - An amount N and types of infinite available coins M
-- A list of M coins - C = {C1,C2,C3,..,CM}
+- A list of M coins - C = {C<sub>1</sub>,C<sub>2</sub>,C<sub>3</sub>,..,C<sub>M</sub>}
 
 Prints out how many different ways you can make change from the coins to `STDOUT`.
 
@@ -30,11 +30,11 @@ Second line contain M integer that represent list of distinct coins that are ava
 
 ###Constraints###
 
-```
-1 ≤ Ci ≤ 50
+<pre>
+1 ≤ C<sub>i</sub> ≤ 50
 1 ≤ N ≤ 250
 1 ≤ M ≤ 50
-```
+</pre>
 
 The list of coins will contain distinct integers.
 
