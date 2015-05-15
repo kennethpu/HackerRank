@@ -12,12 +12,12 @@ T lines follow, each of which contains three integers, N, C, and M.
 
 ###Constraints###
 
-```
+<pre>
 1 ≤ T ≤ 1000 
-2 ≤ N ≤ 10^5 
+2 ≤ N ≤ 10<sup>5</sup>
 1 ≤ C ≤ N 
 2 ≤ M ≤ N
-```
+</pre>
 
 ###Output Format###
 

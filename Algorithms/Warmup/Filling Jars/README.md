@@ -12,12 +12,12 @@ M lines follow; each of them contains three integers, a, b, and k, separated by 
 
 ###Constraints###
 
-```
-3 ≤ N ≤ 10^7 
-1 ≤ M ≤ 10^5 
+<pre>
+3 ≤ N ≤ 10<sup>7</sup> 
+1 ≤ M ≤ 10<sup>5</sup> 
 1 ≤ a ≤ b ≤ N 
-0 ≤ k ≤ 10^6
-```
+0 ≤ k ≤ 10<sup>6</sup> 
+</pre>
 
 ###Output Format###
 

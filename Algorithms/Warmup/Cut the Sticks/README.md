@@ -26,13 +26,13 @@ Given the length of N sticks, print the number of sticks that are cut in subsequ
 ###Input Format###
 
 The first line contains a single integer N. 
-The next line contains N integers: a{0}, a{1},...a{N-1} separated by space, where ai represents the length of ith stick.
+The next line contains N integers: a<sub>1</sub>, a<sub>2</sub>,...a<sub>N</sub> separated by space, where a<sub>i</sub> represents the length of ith stick.
 
 ###Constraints###
 
 ```
 1 ≤ N ≤ 1000 
-1 ≤ a{i} ≤ 1000
+1 ≤ a<sub>i</sub> ≤ 1000
 ```
 
 ###Output Format###

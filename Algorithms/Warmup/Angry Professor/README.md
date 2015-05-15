@@ -28,7 +28,7 @@ For each testcase, print "YES" (without quotes) if the class gets cancelled and 
 −100 ≤ a<sub>i</sub> ≤ 100, where i ∈ [1,N]
 </pre>
 
-**Note:** If a student enters the class exactly when it starts (a{i}=0), the student is considered to have entered before the class has started.
+**Note:** If a student enters the class exactly when it starts (a<sub>i</sub>=0), the student is considered to have entered before the class has started.
 
 ###Sample Input###
 

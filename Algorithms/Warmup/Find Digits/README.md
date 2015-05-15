@@ -18,7 +18,7 @@ The first line contains T (the number of test cases), followed by T lines (each 
 
 ```
 1 ≤ T ≤ 15 
-0 < N < 10^10
+0 < N < 10<sup>10</sup> 
 ```
 
 ###Output Format###
