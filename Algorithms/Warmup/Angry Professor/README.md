@@ -11,9 +11,9 @@ Given the arrival time of each student, your task is to find out if the class ge
 
 The first line of the input contains T, the number of test cases. Each test case contains two lines.  
 The first line of each test case contains two space-separated integers, N and K.  
-The next line contains N space-separated integers, a{1},a{2},…,a{N}, representing the arrival time of each student.
+The next line contains N space-separated integers, a<sub>1</sub>,a<sub>2</sub>,…,a<sub>N</sub>, representing the arrival time of each student.
 
-If the arrival time of a given student is a non-positive integer (a{i} ≤ 0), then the student enters before the class starts. If the arrival time of a given student is a positive integer (ai>0), the student enters after the class has started.
+If the arrival time of a given student is a non-positive integer (a<sub>i</sub> ≤ 0), then the student enters before the class starts. If the arrival time of a given student is a positive integer (a<sub>i</sub>>0), the student enters after the class has started.
 
 ###Output Format###
 
@@ -21,12 +21,12 @@ For each testcase, print "YES" (without quotes) if the class gets cancelled and 
 
 ###Constraints###
 
-```
+<pre>
 1 ≤ T ≤ 10
 1 ≤ N ≤ 1000
 1 ≤ K ≤ N
-−100 ≤ a{i} ≤ 100, where i ∈ [1,N]
-```
+−100 ≤ a<sub>i</sub> ≤ 100, where i ∈ [1,N]
+</pre>
 
 **Note:** If a student enters the class exactly when it starts (a{i}=0), the student is considered to have entered before the class has started.
 
