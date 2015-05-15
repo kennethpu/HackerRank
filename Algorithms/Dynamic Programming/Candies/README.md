@@ -11,12 +11,10 @@ The first line of the input is an integer N, the number of children in Alice's c
 
 ###Constraints###
 
-```
+<pre>
 1 ≤ N ≤ 10<sup>5</sup>
 1 ≤ rating<sub>i</sub> ≤ 10<sup>5</sup>
-```
-
-The list of coins will contain distinct integers.
+</pre>
 
 ###Output Format###
 
