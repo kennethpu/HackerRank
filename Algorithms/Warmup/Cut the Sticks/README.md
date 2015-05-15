@@ -30,10 +30,10 @@ The next line contains N integers: a<sub>1</sub>, a<sub>2</sub>,...a<sub>N</sub>
 
 ###Constraints###
 
-```
+<pre>
 1 ≤ N ≤ 1000 
 1 ≤ a<sub>i</sub> ≤ 1000
-```
+</pre>
 
 ###Output Format###
 

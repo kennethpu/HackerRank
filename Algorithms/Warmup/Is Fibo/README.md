@@ -9,10 +9,10 @@ The first few elements of the Fibonacci sequence are 0,1,1,2,3,5,8,13,⋯. A Fib
 
 Formally: 
 
-fib{0} = 0  
-fib{1} = 1  
+fib<sub>0</sub> = 0  
+fib<sub>1</sub> = 1  
 ⋮  
-fib{n} = fib{n−1} + fib{n−2} ∀n > 1
+fib<sub>n</sub> = fib<sub>n-1</sub> + fib<sub>n-2</sub> ∀n > 1
 
 ###Input Format###
 
@@ -21,10 +21,10 @@ T lines follow. Each line contains an integer N.
 
 ###Constraints###
 
-```
-1 ≤ T ≤ 10^5 
-1 ≤ N ≤ 10^10
-```
+<pre>
+1 ≤ T ≤ 10<sup>5</sup>
+1 ≤ N ≤ 10<sup>10</sup>
+</pre>
 
 ###Output Format###
 
@@ -49,6 +49,6 @@ IsFibo
 
 ###Explanation###
 
-5 is a Fibonacci number given by fib{5} = 3+2  
+5 is a Fibonacci number given by fib<sub>5</sub> = 3+2  
 7 is not a Fibonacci number  
-8 is a Fibonacci number given by fib{6} = 5+3
+8 is a Fibonacci number given by fib<sub>6</sub> = 5+3

@@ -18,10 +18,10 @@ T lines; each line should contain an integer that denotes the maximum number of 
 
 ###Constraints###
 
-```
+<pre>
 1 ≤ T ≤ 10
-2 ≤ K ≤ 10^7
-```
+2 ≤ K ≤ 10<sup>7</sup> 
+</pre>
 
 **Note:** Chocolate must be served in 1 x 1 sized pieces. Alex can't relocate any of the pieces, nor can he place any piece on top of another.
 
