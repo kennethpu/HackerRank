@@ -14,10 +14,10 @@ Each test case contains two space-separated integers denoting A and B.
 
 ###Constraints###
 
-```
+<pre>
 1 ≤ T ≤ 100 
-1 ≤ A ≤ B ≤ 10^9
-```
+1 ≤ A ≤ B ≤ 10<sup>9</sup>
+</pre>
 
 ###Output Format###
 

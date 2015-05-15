@@ -3,7 +3,7 @@ Sherlock and GCD
 
 ###Problem Statement###
 
-Sherlock is stuck while solving a problem: Given an array A=[a{1},a{2},⋯,a{N}], he wants to know if there exists a subset B of this array which follows these statements:
+Sherlock is stuck while solving a problem: Given an array A=[a<sub>1</sub>,a<sub>2</sub>,…,a<sub>n</sub>], he wants to know if there exists a subset B of this array which follows these statements:
 
 - B is a non-empty subset.
 - There exists no integer x(x>1) which divides all elements of B.
@@ -12,15 +12,15 @@ Sherlock is stuck while solving a problem: Given an array A=[a{1},a{2},⋯,a{N}]
 ###Input Format###
 
 The first line of input contains an integer, T, representing the number of test cases. Then T test cases follow.  
-Each test case consists of two lines. The first line contains an integer, N, representing the size of array A. In the second line there are N space-separated integers, a{1},a{2},…,a{n}, representing the elements of array A.
+Each test case consists of two lines. The first line contains an integer, N, representing the size of array A. In the second line there are N space-separated integers, a<sub>1</sub>,a<sub>2</sub>,…,a<sub>n</sub>, representing the elements of array A.
 
 ###Constraints###
 
-```
+<pre>
 1 ≤ T ≤ 10 
 1 ≤ N ≤ 100 
-1 ≤ a{i} ≤ 10^5 ∀i where 1 ≤ i ≤ N
-```
+1 ≤ a<sub>i</sub> ≤ 10<sup>5</sup> ∀i where 1 ≤ i ≤ N
+</pre>
 
 ###Output Format###
 

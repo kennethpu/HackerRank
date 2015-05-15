@@ -19,10 +19,10 @@ The next T lines will contain a string each. The strings do not contain any spac
 
 ###Constraints###
 
-```
+<pre>
 1 ≤ T ≤ 10 
-1 ≤ length of string ≤ 10^4 
-```
+1 ≤ length of string ≤ 10<sup>4</sup> 
+</pre>
 
 All characters are lower case English letters.
 

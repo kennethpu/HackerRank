@@ -18,10 +18,10 @@ There will be T pairs of lines. The first line of each test case will contain th
 
 ###Constraints###
 
-```
+<pre>
 1 ≤ T ≤ 10 
-0 ≤ X,Y,Z,B,W ≤ 10^9
-```
+0 ≤ X,Y,Z,B,W ≤ 10<sup>9</sup>
+</pre>
 
 ###Output Format###
 

@@ -15,9 +15,9 @@ The input contains two lines; L is present in the first line and R in the second
 
 ###Constraints###
 
-```
-1 ≤ L ≤ R ≤ 10^3
-```
+<pre>
+1 ≤ L ≤ R ≤ 10<sup>3</sup>
+</pre>
 
 ###Output Format###
 
