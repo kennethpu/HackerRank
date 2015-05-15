@@ -5,9 +5,9 @@ Max Min
 
 Given a list of N integers, your task is to select K integers from the list such that its _unfairness_ is minimized.
 
-if (x{1},x{2},x{3},…,x{k}) are K numbers selected from the list N, the _unfairness_ is defined as
+if (x<sub>1</sub>,x<sub>2</sub>,x<sub>3</sub>,…,x<sub>k</sub>) are K numbers selected from the list N, the _unfairness_ is defined as
 
-max(x{1},x{2},…,x{k})−min(x{1},x{2},…,x{k})
+max(x<sub>1</sub>,x<sub>2</sub>,…,x<sub>k</sub>)−min(x<sub>1</sub>,x<sub>2</sub>,…,x<sub>k</sub>)
 
 where max denotes the largest integer among the elements of K, and min denotes the smallest integer among the elements of K.
 
@@ -21,11 +21,11 @@ N lines follow. Each line contains an integer that belongs to the list N.
 
 ###Constraints###
 
-```
-2 ≤ N ≤ 10^5 
+<pre>
+2 ≤ N ≤ 10<sup>5</sup> 
 2 ≤ K ≤ N 
-0 ≤ integer in N ≤ 10^9
-```
+0 ≤ integer in N ≤ 10<sup>9</sup>
+</pre>
 
 ###Output Format###
 

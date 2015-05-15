@@ -13,10 +13,10 @@ The first line contains an integer T, i.e. the number of test cases. T test case
 
 ###Constraints###
 
-```
+<pre>
 1 ≤ T ≤ 10 
-1 ≤ n,a,b ≤ 10^3
-```
+1 ≤ n,a,b ≤ 10<sup>3</sup>
+</pre>
 
 ###Output Format###
 
